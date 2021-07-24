@@ -102,6 +102,9 @@ body{
 .social__links ul li a span{
     line-height: 1.4rem;
 }
+.social__links ul .store:hover{
+    background: #0B3559;
+}
 .social__links ul .instagram:hover{
     background: #C13584;
 }
